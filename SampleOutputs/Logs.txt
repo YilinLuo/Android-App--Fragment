@@ -1,0 +1,39 @@
+2019-02-21 02:48:25.958 26025-26025/? I/zygote: Not late-enabling -Xcheck:jni (already on)
+2019-02-21 02:48:26.022 26025-26025/? W/zygote: Unexpected CPU variant for X86 using defaults: x86
+2019-02-21 02:48:26.174 26025-26025/com.example.ex05 I/InstantRun: starting instant run server: is main process
+2019-02-21 02:48:26.463 26025-26025/com.example.ex05 D/com.example.ex05.TopFragment: OnAttach is called. 
+2019-02-21 02:48:26.463 26025-26025/com.example.ex05 D/com.example.ex05.TopFragment: OnCreate is called. 
+2019-02-21 02:48:26.475 26025-26025/com.example.ex05 D/com.example.ex05.TopFragment: OnActivityCreated is called. 
+2019-02-21 02:48:26.475 26025-26025/com.example.ex05 D/com.example.ex05.BottomFragment: OnAttach is called. 
+2019-02-21 02:48:26.475 26025-26025/com.example.ex05 D/com.example.ex05.BottomFragment: OnCreate is called. 
+2019-02-21 02:48:26.477 26025-26025/com.example.ex05 D/com.example.ex05.BottomFragment: OnActivityCreated is called. 
+2019-02-21 02:48:26.477 26025-26025/com.example.ex05 D/com.example.ex05.TopFragment: OnStart is called. 
+2019-02-21 02:48:26.477 26025-26025/com.example.ex05 D/com.example.ex05.BottomFragment: OnStart is called. 
+2019-02-21 02:48:26.478 26025-26025/com.example.ex05 D/com.example.ex05.TopFragment: OnResume is called. 
+2019-02-21 02:48:26.478 26025-26025/com.example.ex05 D/com.example.ex05.BottomFragment: OnResume is called. 
+2019-02-21 02:48:26.500 26025-26050/com.example.ex05 D/OpenGLRenderer: HWUI GL Pipeline
+2019-02-21 02:48:26.584 26025-26050/com.example.ex05 I/zygote: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+2019-02-21 02:48:26.584 26025-26050/com.example.ex05 I/OpenGLRenderer: Initialized EGL, version 1.4
+2019-02-21 02:48:26.584 26025-26050/com.example.ex05 D/OpenGLRenderer: Swap behavior 1
+2019-02-21 02:48:26.585 26025-26050/com.example.ex05 W/OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2019-02-21 02:48:26.585 26025-26050/com.example.ex05 D/OpenGLRenderer: Swap behavior 0
+2019-02-21 02:48:26.585 26025-26050/com.example.ex05 D/EGL_emulation: eglCreateContext: 0xa1485060: maj 3 min 0 rcv 3
+2019-02-21 02:48:26.589 26025-26050/com.example.ex05 D/EGL_emulation: eglMakeCurrent: 0xa1485060: ver 3 0 (tinfo 0xa1483240)
+2019-02-21 02:48:26.647 26025-26050/com.example.ex05 D/EGL_emulation: eglMakeCurrent: 0xa1485060: ver 3 0 (tinfo 0xa1483240)
+2019-02-21 02:48:26.746 26025-26025/com.example.ex05 I/AssistStructure: Flattened final assist data: 3948 bytes, containing 1 windows, 16 views
+2019-02-21 02:48:48.765 26025-26034/com.example.ex05 I/zygote: Do partial code cache collection, code=23KB, data=30KB
+2019-02-21 02:48:48.767 26025-26034/com.example.ex05 I/zygote: After code cache collection, code=23KB, data=30KB
+2019-02-21 02:48:48.768 26025-26034/com.example.ex05 I/zygote: Increasing code cache capacity to 128KB
+2019-02-21 02:48:51.437 26025-26034/com.example.ex05 I/zygote: Do partial code cache collection, code=37KB, data=46KB
+2019-02-21 02:48:51.437 26025-26034/com.example.ex05 I/zygote: After code cache collection, code=37KB, data=46KB
+2019-02-21 02:48:51.437 26025-26034/com.example.ex05 I/zygote: Increasing code cache capacity to 256KB
+2019-02-21 02:48:59.128 26025-26025/com.example.ex05 D/in top fragment: shfksin bundle
+2019-02-21 02:48:59.128 26025-26025/com.example.ex05 D/com.example.ex05.MainActivity: shfks
+2019-02-21 02:48:59.214 26025-26034/com.example.ex05 I/zygote: Do full code cache collection, code=123KB, data=105KB
+2019-02-21 02:48:59.215 26025-26034/com.example.ex05 I/zygote: After code cache collection, code=119KB, data=77KB
+2019-02-21 02:49:00.134 26025-26025/com.example.ex05 D/com.example.ex05.BottomFragment: THE STRING IS shfks
+2019-02-21 02:49:03.319 26025-26034/com.example.ex05 I/zygote: Do partial code cache collection, code=122KB, data=93KB
+2019-02-21 02:49:03.319 26025-26034/com.example.ex05 I/zygote: After code cache collection, code=122KB, data=93KB
+2019-02-21 02:49:03.319 26025-26034/com.example.ex05 I/zygote: Increasing code cache capacity to 512KB
+2019-02-21 02:49:09.717 26025-26025/com.example.ex05 D/in top fragment: fhskin bundle
+2019-02-21 02:49:09.717 26025-26025/com.example.ex05 D/com.example.ex05.MainActivity: fhsk
